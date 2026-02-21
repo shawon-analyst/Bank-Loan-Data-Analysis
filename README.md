@@ -37,3 +37,9 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/shawon-analyst/Bank-Loan-Data-Analysis](https://github.com/shawon-analyst/Bank-Loan-Data-Analysis)
+
+2. Install required libraries:
+   pip install pandas plotly openpyxl kaleido
+3.
+   Run the Analysis:
+   Open main.ipynb in Jupyter Notebook or VS Code and run all cells to generate the visualizations.
