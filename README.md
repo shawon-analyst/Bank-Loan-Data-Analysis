@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Data Analysis Dashboard
+# 🏦 Bank Loan Data Analysis
 
 ## 📌 Project Overview
 This project provides a comprehensive analysis of bank lending data to uncover key insights regarding loan distribution, borrower demographics, and financial risk patterns. Using **Python** and interactive visualization libraries like **Plotly**, I have developed a dashboard that identifies the primary drivers of loan applications and the stability of the customer base.
