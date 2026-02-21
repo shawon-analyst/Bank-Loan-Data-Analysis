@@ -43,3 +43,8 @@ To run this project locally, follow these steps:
 3.
    Run the Analysis:
    Open main.ipynb in Jupyter Notebook or VS Code and run all cells to generate the visualizations.
+
+👤 Author
+Shawon Data Analyst 📊
+
+Connect with me for any collaboration, feedback, or data-related discussions! 😊✨
